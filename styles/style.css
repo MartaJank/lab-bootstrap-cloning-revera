@@ -1,0 +1,92 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+nav { 
+    background-color: white;
+    height: 90px;
+    width: 100%;
+}
+
+.navbar-brand { 
+    font-size: 2rem !important;
+    font-weight: 600;
+    padding-left: 5rem !important;
+}
+
+.navbar-nav {
+    font-size: 0.85rem !important;
+}
+
+.nav-link {
+    padding-right: 1rem !important;
+}
+
+.nav-link:hover {
+    color: #ed564b !important;
+}
+
+.home {
+    color: #ed564b !important;
+}
+
+.carousel {
+    background-color: black;
+    width: 100%;
+}
+
+.red-part {
+    background-color: #ed564b;
+    min-height: 336px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+
+.icon {
+    height: 6rem;
+}
+
+.red-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.red-p {
+    font-size: 0.8rem;
+}
+
+.red-sec {
+    
+}
+
+main {
+    background-color: white;
+    min-height: 1166px;
+    height: 100%;
+    width: 100%;
+}
+
+.footer-top {
+    background-color: #3b3b3b;
+    height: 387px;
+    width: 100%;
+}
+
+.footer-bottom {
+    background-color: #292929;
+    color: white;
+    height: 78px;
+    width: 100%;
+    font-size: 0.7rem;
+    padding-top: 1.5rem;
+}
+
+.my-footer {
+    padding-left: 7rem !important;
+    line-height: 0.5;
+}
